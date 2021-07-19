@@ -1,5 +1,5 @@
-# aa_xr_clusters
-xr clusters
+# aa_xr_fork
+Fork taking just the needed changes in the much larger aa_xr_clusters
 
 current issues:
     some sectors still green or pink
