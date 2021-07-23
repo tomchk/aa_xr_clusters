@@ -768,13 +768,13 @@
     </material>
     <material name="red_nebula" shader="XU_simple.fx" blendmode="SCREEN" preview="none">
       <properties>
-        <property type="BitMap" name="diffuse_map" value="assets\legacy\environments\fog\texturesfog_patterncloud_04"></property>
+        <property type="BitMap" name="diffuse_map" value="assets\legacy\environments\fog\textures\fog_patterncloud_04"></property>
         <property type="Float" name="diffuseStr" value="0.5"></property>
       </properties>
     </material>
     <material name="red_nebula_v2" shader="XU_simple.fx" blendmode="SCREEN" preview="none">
       <properties>
-        <property type="BitMap" name="diffuse_map" value="assets\legacy\environments\fog\texturesfog_patterncloud_04"></property>
+        <property type="BitMap" name="diffuse_map" value="assets\legacy\environments\fog\textures\fog_patterncloud_04"></property>
         <property type="Float" name="diffuseStr" value="0.5"></property>
       </properties>
     </material>
