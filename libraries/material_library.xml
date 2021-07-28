@@ -7,6 +7,11 @@
   <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
   <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
 
+  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+
   <replace sel="//material[@name='cluster_b_stars_bright']">
     <material name="cluster_b_stars_bright" shader="XU_simple_hdr_out.fx" blendmode="ADDITIVE" preview="none">
       <properties>
