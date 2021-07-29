@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
 <!-- This is a bug in vanilla X4? -->
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_04</replace>
 
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
-  <replace sel="(//property[@value='assets\environments\fog\textures\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_patterncloud_02']/@value)[1]">assets\legacy\environments\fog\textures\fog_patterncloud_02</replace>
+
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_07.tga']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_07.tga</replace>
+
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_09']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_09</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_maskrnd_09']/@value)[1]">assets\legacy\environments\fog\textures\fog_maskrnd_09</replace>
+
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_smoothclouds_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_smoothclouds_04</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_smoothclouds_04']/@value)[1]">assets\legacy\environments\fog\textures\fog_smoothclouds_04</replace>
+
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_smoothclouds_03']/@value)[1]">assets\legacy\environments\fog\textures\fog_smoothclouds_03</replace>
+  <replace sel="(//*[@value='assets\\environments\\fog\\textures\\fog_smoothclouds_03']/@value)[1]">assets\legacy\environments\fog\textures\fog_smoothclouds_03</replace>
 
   <replace sel="//material[@name='cluster_b_stars_bright']">
     <material name="cluster_b_stars_bright" shader="XU_simple_hdr_out.fx" blendmode="ADDITIVE" preview="none">
